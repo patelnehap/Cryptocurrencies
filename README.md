@@ -29,5 +29,5 @@ This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocu
 
 ## Summary
 We have demonstrated the classification of 532 cryptocurrencies based on similarities of their features.
-Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's clients.
+Particularities of each group need to be analyzed to determine their performance and potential interest for Martha's clients.
 
